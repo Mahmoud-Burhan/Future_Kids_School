@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'Dashboard' => 'Dashboard',
+    'Title'=>'ADD New Graduate',
+    'Student_Graduate_List'=>'Graduate List',
+    'Graduated_Students' => 'Graduated Student',
+    'New_Graduated_Students' => 'ADD New Graduate',
+    'Grade' => 'Grade  ',
+    'Classroom' => 'Classroom   ',
+    'Section' => ' Section  ',
+    'Student_Name'=> 'Student Name   ',
+    'Email'=> 'Email    ',
+    'Gender'=> ' Gender   ',
+    'Select'=>'Select...',
+    'Close'=>'Close',
+    "Save"=>'Save',
+    "Update"=>'Update  ',
+    "Delete"=>'Delete  ',
+    'Action' => 'Action',
+    'Confirm'=>'Confirm',
+    'No_Data'=>'There is no data available in the student list',
+    'Return_Student'=>'Return Student',
+    'Delete_Student'=>'Delete Student',
+    'Return_Message'=>' Are you sure you want to return the student?',
+    'Delete_Message'=>'Are you sure you want to delete the student?',
+    'Graduate_Student'=>'Student Graduate',
+    'Graduate_Message'=>' Are you sure you want to return the student?',
+
+    ];

@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'Dashboard' => 'Dashboard',
+    'Title'=>'Student List',
+
+    'Add_title'=>'Add New Student',
+    'Student_List' => 'Student List',
+    'Personal_Information' => 'Personal Information',
+    'Student_Information' => 'Student Information',
+    'Name_ar'=> 'Student Name in Arabic',
+    'Name_en'=> 'Student Name in English',
+    'Student_Name'=> 'Student Name   ',
+    'Email'=>'Email',
+    'Password'=>'Password',
+    'Gender' => ' Gender ',
+    'Nationality' => 'Nationality',
+    'Blood_Type'=>'Blood Type',
+    'DOB' => 'Date Of Birth ',
+    'Grade' => 'Grade',
+    'Classroom' => 'Classroom',
+    'Section' => ' Section ',
+    'Family' => 'Parent',
+    'Academic' => 'Academic ',
+    'Select'=>'Select...',
+    'Student_name' => 'Student Name',
+    'Student_Details' => 'Student Details',
+    'Attachments' => ' Attachments',
+    'File_name' => ' File Name',
+    'Added_Date' => ' Added Date',
+    'Download' => 'Download',
+    'Graduate_Student' => 'Graduate Student',
+    'Graduate_Message'=>'Are you sure you want to graduate the student?',
+
+    'Close'=>'Close',
+    "Save"=>'Save Date',
+    "Update"=>'Update  Date',
+    "Delete"=>'Delete  Date',
+    'Action' => 'Action',
+    'Confirm' => 'Confirm',
+
+    'Edit_Student' => 'Edit Student ',
+    'Delete_Student' => 'Delete Student ',
+    'Delete_Message'=>'Are you sure you want to delete?',
+    'Add_Student'=>'Add New Student',
+
+];

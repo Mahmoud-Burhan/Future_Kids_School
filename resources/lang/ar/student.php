@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'Dashboard' => 'الرئيسية',
+    'Title'=>'قائمة الطلاب',
+
+    'Add_title'=>'اضافة طالب جديد',
+    'Student_List' => 'قائمة الطلاب',
+    'Personal_Information' => 'معلومات السخصية',
+    'Student_Information' => 'معلومات الطالب',
+    'Name_ar'=> 'اسم ألطالب بالغة بالعربية',
+    'Name_en'=> 'اسم ألطالب بالغة  بالانجليزية',
+    'Student_Name'=> 'اسم ألطالب بالغة  ',
+    'Email'=>'البريد الاكتروني',
+    'Password'=>'كلمة المرور',
+    'Gender' => ' ألنوع ',
+    'Nationality' => 'الجنسية',
+    'Blood_Type'=>'فصيلة الدم',
+    'DOB' => 'تاريخ الميلاد ',
+    'Grade' => 'المرحلة الدراسية  ',
+    'Classroom' => 'الصف الدراسي  ',
+    'Section' => ' القسم ',
+    'Family' => 'ولي الامر  ',
+    'Academic' => ' ألسنة الدراسية ',
+    'Select'=>'اختر...',
+    'Student_name' => 'اسم الطالب',
+    'Student_Details' => 'معلومات الطالب',
+    'Attachments' => ' المرفقات',
+    'File_name' => ' اسم الملف',
+    'Added_Date' => ' تاريخ الاضافة',
+    'Download' => 'تحميل',
+    'Graduate_Student' => 'تخرج الطالب',
+    'Graduate_Message'=>'هل انت متاكد من عملية تخرج ألطالب؟',
+
+    'Close'=>'اغلاق',
+    "Save"=>'حفظ البيانات',
+    "Update"=>'تحديث  البيانات',
+    "Delete"=>'حذف  البيانات',
+    'Action' => 'العمليات',
+    'Confirm' => 'تاكيد',
+
+    'Edit_Student' => 'تعديل ألطالب ',
+    'Delete_Student' => 'حذف ألطالب ',
+    'Delete_Message'=>'هل انت متاكد من عملية حذف ألطالب؟',
+    'Add_Student'=>'اضافة طالب جديد',
+
+];
